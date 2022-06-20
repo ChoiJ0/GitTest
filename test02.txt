@@ -6,3 +6,6 @@ tnwjd
 
 model 수정
 controller 수정
+
+새로운 사항 수정
+민원 수정
