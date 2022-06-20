@@ -3,3 +3,6 @@ code
 
 tnwjd
  수정
+
+model 수정
+controller 수정
